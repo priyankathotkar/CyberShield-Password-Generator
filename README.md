@@ -29,7 +29,7 @@ Quickly copy your generated password with one click. 📋
 
 ## 🖥️ Demo
 
-🌐 [**Live Demo Here**](https://your-live-demo-link.com) <!-- Optional: add your deployed link here -->
+🌐 https://priyankathotkar.github.io/CyberShield-Password-Generator/ <!-- Optional: add your deployed link here -->
 
 ---
 
